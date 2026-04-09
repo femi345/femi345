@@ -7,6 +7,7 @@
 - Applied ML and computer vision
 - Systems programming
 - Developer tools and infrastructure
+- Emerging theoretical and applied computing research e.g quantum computing, edge and neuromorphic architectures, computational ethics, and large-scale distributed systems.
 
 ## GitHub Activity
 
