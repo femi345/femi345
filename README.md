@@ -4,9 +4,8 @@
 
 
 ## Currently Interested In
-
-- Systems programming (Rust, C++)
 - Applied ML and computer vision
+- Systems programming
 - Developer tools and infrastructure
 
 ## Connect
