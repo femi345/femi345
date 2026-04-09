@@ -1,4 +1,4 @@
-# Hi, I'm Femi
+# Femi
 
 📍 **Cambridge, MA** | **CS, Physics & Econ @ Harvard** | 🔧
 
