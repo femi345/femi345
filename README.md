@@ -8,6 +8,10 @@
 - Systems programming
 - Developer tools and infrastructure
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/femi345)
+
 ## Connect
 
 [![Website](https://img.shields.io/badge/-femiositade.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://femiositade.com)
